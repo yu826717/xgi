@@ -3,8 +3,8 @@ title: 徐明的博客
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   拥抱新生命，奔向未来！
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://xuming.net" # the base hostname & protocol for your site
+baseurl: "/xgi" # the subpath of your site, 
+url: "https://yu826717.github.io" # the base hostname & protocol for your site
 twitter_username: chyni 
 github_username:  xuming
 
